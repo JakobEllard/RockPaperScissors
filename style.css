@@ -1,0 +1,52 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+text-align: center;
+}
+.thing{
+  justify-content: space-between;
+  display: flex;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.count{
+  justify-content: space-between;
+  display: flex;
+  margin-left: 450px;
+  margin-right: 450px;
+}
+#rock{
+width:200px;
+height:auto;
+}
+#paper{
+width:200px;
+height:auto;
+}
+#scissors{
+width:200px;
+height:auto;
+}
+
+#crock{
+  display:none;
+  float:right;
+  align-items:right;
+width:200px;
+height:auto;
+}
+#cpaper{
+  display:none;
+  float:right;
+  align-items:right;
+width:200px;
+height:auto;
+}
+#cscissors{
+  display:none;
+  float:right;
+width:200px;
+height:auto;
+}
